@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1366961923 source:f:\moje dokumenty\aisdi\tree\asd.cc
+	<assert.h>
+	<algorithm>
+	<iostream>
+	"/materialy/AISDI/tree/TreeMap.h"
+	"TreeMap.h"
+	<map>
+
+1354817166 f:\moje dokumenty\aisdi\tree\treemap.h
+	<assert.h>
+	<stdlib.h>
+	<iterator>
+	<string>
+
+1417805337 source:f:\moje dokumenty\aisdi\tree\main.cc
+	<iostream>
+	"/materialy/AISDI/tree/TreeMap.h"
+	"timer.h"
+	"TreeMap.h"
+
+1353658751 f:\moje dokumenty\aisdi\tree\timer.h
+
